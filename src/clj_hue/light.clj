@@ -1,6 +1,5 @@
 (ns clj-hue.light
   (:require
-   [clojure.data.json :as json]
    [clj-http.client :as http]
    [clj-hue.bridge :as hue]))
 
